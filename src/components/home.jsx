@@ -4,7 +4,7 @@ import { List } from "antd";
 
 // import List from 'antd/lib/list';
 // import 'antd/lib/list/style/css';
-import './home.css'
+import '../../public/css/home.css'
 
 
 class Home extends React.Component {
