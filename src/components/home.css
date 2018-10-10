@@ -1,0 +1,17 @@
+.home-container {
+  max-width: 1000px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.home-card {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 7px 1px #ccccccd6;
+}
+.home-avatar {
+  width: 100px;
+  height: 131px;
+}

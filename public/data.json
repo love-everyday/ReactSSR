@@ -1,0 +1,2346 @@
+{
+  "code": "A00000",
+  "docinfos": [
+      {
+          "doc_id": "a4d9076513490d6557b052e3eb4e266a",
+          "score": 0.913177,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 1012320100,
+              "albumTitle": "风语咒",
+              "albumAlias": "画江湖之风语咒;Wind Guardians",
+              "albumEnglishTitle": "The Wind Guardians",
+              "description": "生活在孝阳岗的少年郎明怀揣侠岚梦想，但双眼失明的他却只能靠招摇撞骗混于市井之中。直到有一天，罗刹袭击孝阳岗，与他相依为命的母亲突然失踪，郎明迫不得已踏上了找寻真相之路。一波未平一波又起，上古神兽饕餮现世让人间危在旦夕，传说中的侠岚们也出现在眼前，郎明也踏上了改变一生的冒险之旅…… ",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rrcsuqyw.html",
+              "albumVImage": "http://pic3.iqiyipic.com/image/20180917/cf/c1/v_115720703_m_601_m12.jpg",
+              "albumHImage": "http://pic3.iqiyipic.com/image/20180917/cf/c1/v_115720703_m_601_m12.jpg",
+              "director": "刘阔",
+              "star": "路知行",
+              "region": "内地",
+              "season": "0",
+              "releaseDate": "20180803",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic3.iqiyipic.com/image/20180917/cf/c1/v_115720703_m_601_m12.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 2665359,
+              "score": 9,
+              "series": false,
+              "threeCategory": "决斗,31179,8 虐恋,27816,8 打怪,27423,8 院线,27815,7 4K,29745,7 杜比音效,29696,7 1080P,999,7 新片,30089,7 故乡,27830,3 动画,12,2 奇幻,1284,2 冒险,27355,2 内地,28996,1 华语,1,1",
+              "tvFocus": "上古凶兽毁天灭地",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "风语咒",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic3.iqiyipic.com/image/20180917/cf/c1/v_115720703_m_601_m12.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rrcsuqyw.html",
+                      "timeLength": 6323,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-16 15:30:13",
+                      "tvId": 1012320100,
+                      "vid": "38e15f9d3d03892f911e39c536895336",
+                      "vFocus": "上古凶兽毁天灭地",
+                      "is1080p": true,
+                      "year": 20180803,
+                      "uploadTime": "",
+                      "itemshortTitle": "风语咒",
+                      "qipu_id": 1012320100,
+                      "is_vip": true,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbcldk0XwydVxErpFdYSlA4QzVGZcSLTcVU1Ati2cUzcgd5",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "864x360"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "优酷",
+                      "siteId": "youku",
+                      "docid": "youku:9a81022cfceef69768fb6aebb1390ba3",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 1012320100,
+              "video_lib_meta": {
+                  "entity_id": 217463814,
+                  "title": "风语咒",
+                  "director": [
+                      {
+                          "id": 215495305,
+                          "name": "刘阔",
+                          "image_url": "http://pic0.iqiyipic.com/image/20180723/67/bb/p_5044619_m_601.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 215740505,
+                          "name": "路知行",
+                          "image_url": "http://pic7.iqiyipic.com/image/20160307/1a/c1/p_5047031_m_601_m1.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 105,
+                  "global_publish_date": "20180803",
+                  "china_publish_date": "20180803",
+                  "short_comment": "上古凶兽毁天灭地",
+                  "poster": "http://pic3.iqiyipic.com/image/20180917/cf/c1/v_115720703_m_601_m12.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "冒险",
+                      "动画",
+                      "奇幻"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_217463814.html",
+                  "douban_id": 30146756,
+                  "filmtv_update_strategy": "1",
+                  "description": "生活在孝阳岗的少年郎明怀揣侠岚梦想，但双眼失明的他却只能靠招摇撞骗混于市井之中。直到有一天，罗刹袭击孝阳岗，与他相依为命的母亲突然失踪，郎明迫不得已踏上了找寻真相之路。一波未平一波又起，上古神兽饕餮现世让人间危在旦夕，传说中的侠岚们也出现在眼前，郎明也踏上了改变一生的冒险之旅",
+                  "alias": "画江湖之风语咒;Wind Guardians"
+              },
+              "latest_update_time": 1537083013,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7,8",
+              "is_third_party_vip": false,
+              "is_domestic_only": true,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "circle_summaries": [
+                  {
+                      "id": 247820847,
+                      "title": "风语咒",
+                      "image_url": "http://pic3.iqiyipic.com/image/20180917/cf/c1/v_115720703_m_601_m12_128_128.jpg",
+                      "description": "上古凶兽毁天灭地",
+                      "circle_type": 2,
+                      "circle_user_count": 967,
+                      "hadMaster": 0
+                  },
+                  {
+                      "id": 209565147,
+                      "title": "阎萌萌",
+                      "image_url": "http://pic7.iqiyipic.com/image/20160308/91/dd/p_2012586_m_601_m3_160_160.jpg",
+                      "description": "",
+                      "circle_type": 0,
+                      "celebrity_id": 208468405,
+                      "circle_user_count": 1674,
+                      "hadMaster": 1
+                  },
+                  {
+                      "id": 209559647,
+                      "title": "褚珺",
+                      "image_url": "http://pic6.iqiyipic.com/image/20160308/ce/9e/p_2013762_m_601_m3_160_160.jpg",
+                      "description": "",
+                      "circle_type": 0,
+                      "celebrity_id": 208585905,
+                      "circle_user_count": 418,
+                      "hadMaster": 0
+                  },
+                  {
+                      "id": 209560647,
+                      "title": "边江",
+                      "image_url": "http://pic2.iqiyipic.com/image/20160307/ea/fa/p_2013278_m_601_m1_160_160.jpg",
+                      "description": "",
+                      "circle_type": 0,
+                      "celebrity_id": 208537505,
+                      "circle_user_count": 5225,
+                      "hadMaster": 1
+                  },
+                  {
+                      "id": 209565447,
+                      "title": "山新",
+                      "image_url": "http://img5.iqiyipic.com/image/ppopen/ppopen_5b766f26ad8c1227be1deba4_0.jpg",
+                      "description": "热爱美食的呆萌少女",
+                      "circle_type": 0,
+                      "celebrity_id": 214138105,
+                      "circle_user_count": 11776,
+                      "hadMaster": 1
+                  }
+              ],
+              "is_pano": false,
+              "universal_search_order": [
+                  1
+              ],
+              "secret_link": "5dwD0rTDiL7F2SrVBTbcldk0XwydVxErpFdYSlA4QzVGZcSLTcVU1Ati2cUzcgd5",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 1,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "c544e17040b817deb254b4bf9a3d6293",
+          "score": 0.886043,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 760312500,
+              "albumTitle": "欧洲攻略",
+              "albumEnglishTitle": "Europe Raiders",
+              "description": "影片主要讲述了特工林在风与王小姐多年来亦敌亦友，相互欣赏又互相为敌。上帝右手在CIA被不明身份的苏菲偷走后，两人同时受CIA委托展开追寻。原本以为只是一场谋略较量，但在他们救下顶级黑客洛奇后，却发现这背后还隐藏着一个更大的秘密。 ",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rr82r26w.html",
+              "albumVImage": "http://pic6.iqiyipic.com/image/20180914/db/95/v_113151137_m_601_m15.jpg",
+              "albumHImage": "http://pic6.iqiyipic.com/image/20180914/db/95/v_113151137_m_601_m15.jpg",
+              "director": "马楚成",
+              "star": "梁朝伟;吴亦凡",
+              "region": "英国",
+              "season": "0",
+              "releaseDate": "20180817",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic6.iqiyipic.com/image/20180914/db/95/v_113151137_m_601_m15.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 1718125,
+              "score": 7.4,
+              "series": false,
+              "threeCategory": "院线,27815,7 1080P,999,7 新片,30089,7 动作,11,2 喜剧,8,2 爱情,6,2 华语,1,1 英国,29001,1",
+              "tvFocus": "梁朝伟吴亦凡肉搏",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "欧洲攻略",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic6.iqiyipic.com/image/20180914/db/95/v_113151137_m_601_m15.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rr82r26w.html",
+                      "timeLength": 5991,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-14 15:30:10",
+                      "tvId": 760312500,
+                      "vid": "484b9fd2cacf00cce4845d1204797aaa",
+                      "vFocus": "梁朝伟吴亦凡肉搏",
+                      "is1080p": true,
+                      "year": 20180817,
+                      "uploadTime": "",
+                      "itemshortTitle": "欧洲攻略",
+                      "qipu_id": 760312500,
+                      "is_vip": true,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclbbxr6dIbMNDr0RBUSwPTnENAImEw1XD46oKlj2M3IC1",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "480x200"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "腾讯",
+                      "siteId": "qq",
+                      "docid": "qq:203f0cc4ba210340a3c378bcdb17a7ee",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "芒果tv",
+                      "siteId": "imgo",
+                      "docid": "imgo:5eb790f60a2f3a319e1b9f98f9ac3622",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "优酷",
+                      "siteId": "youku",
+                      "docid": "youku:45f06d4a74221749539686ba6d2b0998",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 760312500,
+              "video_lib_meta": {
+                  "entity_id": 214553414,
+                  "title": "欧洲攻略",
+                  "director": [
+                      {
+                          "id": 206962705,
+                          "name": "马楚成",
+                          "image_url": "http://pic6.iqiyipic.com/image/20160308/6a/f5/p_1064291_m_601_m2.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 214340305,
+                          "name": "梁朝伟",
+                          "image_url": "http://pic7.iqiyipic.com/image/20160307/06/dd/p_2001944_m_601_m1.jpg"
+                      },
+                      {
+                          "id": 208809305,
+                          "name": "吴亦凡",
+                          "image_url": "http://pic4.iqiyipic.com/image/20180525/76/bb/p_1101660_m_601_m4.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 100,
+                  "global_publish_date": "20180817",
+                  "china_publish_date": "20180817",
+                  "short_comment": "梁朝伟吴亦凡肉搏",
+                  "poster": "http://pic6.iqiyipic.com/image/20180914/db/95/v_113151137_m_601_m15.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆",
+                      "英国"
+                  ],
+                  "category": [
+                      "喜剧",
+                      "爱情",
+                      "动作"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_214553414.html",
+                  "douban_id": 26351812,
+                  "filmtv_update_strategy": "1",
+                  "description": "影片主要讲述了特工林在风与王小姐多年来亦敌亦友，相互欣赏又互相为敌。上帝右手在CIA被不明身份的苏菲偷走后，两人同时受CIA委托展开追寻。原本以为只是一场谋略较量，但在他们救下顶级黑客洛奇后，却发现这背后还隐藏着一个更大的秘密。 "
+              },
+              "latest_update_time": 1536910210,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7,8",
+              "is_third_party_vip": true,
+              "is_domestic_only": true,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclbbxr6dIbMNDr0RBUSwPTnENAImEw1XD46oKlj2M3IC1",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 2,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "a352b2af58dabbe2c74f9d0fa25d7826",
+          "score": 0.835489,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 1324068100,
+              "albumTitle": "古墓兽影",
+              "albumSubTitle": "古墓兽影.",
+              "description": "十年前，卓健凉老师在一次西北探险中被盗墓贼杀害。为了完成老师遗愿，卓健凉和老毕开始了麒麟城的寻宝之旅。在麒麟城里，故事在二人同当地村民马沙宁和刚刚出狱的五魁以及只为钱财而来的一群恶徒中展开。麒麟城里黄沙漫天、怪兽横行，他们能否收获宝藏？人性、道德、钱财、爱情的纠葛将何去何从？",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rr05v71k.html",
+              "albumVImage": "http://pic8.iqiyipic.com/image/20180918/69/4c/v_118884014_m_601_m3.jpg",
+              "albumHImage": "http://pic8.iqiyipic.com/image/20180918/69/4c/v_118884014_m_601_m3.jpg",
+              "director": "李麒麟",
+              "star": "聂远;莫少聪;安泽豪;殷旭;范植伟",
+              "region": "内地",
+              "season": "0",
+              "releaseDate": "20180913",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic8.iqiyipic.com/image/20180918/69/4c/v_118884014_m_601_m3.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "score": 7.3,
+              "series": false,
+              "threeCategory": "决斗,31179,8 杜比音效,29696,7 网络大电影,27401,7 1080P,999,7 独播,30149,7 惊悚,128,2 悬疑,289,2 动作,11,2 内地,28996,1 华语,1,1",
+              "tvFocus": "聂远探寻神秘古墓",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "古墓兽影",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic8.iqiyipic.com/image/20180918/69/4c/v_118884014_m_601_m3.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rr05v71k.html",
+                      "timeLength": 5192,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-13 15:30:09",
+                      "tvId": 1324068100,
+                      "vid": "e60ca8b661f8b46035b65855d3f44f33",
+                      "vFocus": "聂远探寻神秘古墓",
+                      "subTitle": "古墓兽影.",
+                      "is1080p": true,
+                      "year": 20180913,
+                      "uploadTime": "",
+                      "itemshortTitle": "古墓兽影",
+                      "qipu_id": 1324068100,
+                      "is_vip": true,
+                      "is_domestic_only": false,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclae53_g5yaP9hmEGtOdJW7e0qi1wzuOcH0QK98zuF4LU",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "480x192"
+                  }
+              ],
+              "is_exclusive": true,
+              "qipu_id": 1324068100,
+              "video_lib_meta": {
+                  "entity_id": 218576414,
+                  "title": "古墓兽影",
+                  "director": [
+                      {
+                          "id": 204316005,
+                          "name": "李麒麟"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 205556505,
+                          "name": "聂远",
+                          "image_url": "http://pic2.iqiyipic.com/image/20180829/c1/03/p_1050229_m_601_m3.jpg"
+                      },
+                      {
+                          "id": 214351005,
+                          "name": "莫少聪",
+                          "image_url": "http://pic7.iqiyipic.com/image/20170701/97/5d/p_2002417_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 214622205,
+                          "name": "安泽豪",
+                          "image_url": "http://pic1.iqiyipic.com/image/20160307/94/08/p_2005823_m_601_m1.jpg"
+                      },
+                      {
+                          "id": 215386505,
+                          "name": "殷旭",
+                          "image_url": "http://pic0.iqiyipic.com/image/20160308/36/44/p_2013988_m_601_m3.jpg"
+                      },
+                      {
+                          "id": 214320705,
+                          "name": "范植伟",
+                          "image_url": "http://pic1.iqiyipic.com/image/20180518/0b/3b/p_2000943_m_601_m3.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 86,
+                  "global_publish_date": "20180913",
+                  "short_comment": "聂远探寻神秘古墓",
+                  "poster": "http://pic8.iqiyipic.com/image/20180918/69/4c/v_118884014_m_601_m3.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "动作",
+                      "惊悚",
+                      "悬疑"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_218576414.html",
+                  "douban_id": 30311865,
+                  "filmtv_update_strategy": "1",
+                  "description": "十年前，卓健凉老师在一次西北探险中被盗墓贼杀害。为了完成老师遗愿，卓健凉和老毕开始了麒麟城的寻宝之旅。在麒麟城里，故事在二人同当地村民马沙宁和刚刚出狱的五魁以及只为钱财而来的一群恶徒中展开。麒麟城里黄沙漫天、怪兽横行，他们能否收获宝藏？人性、道德、钱财、爱情的纠葛将何去何从？"
+              },
+              "latest_update_time": 1536823809,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7",
+              "black_platform_region": [
+                  {
+                      "play_platform": 1,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 19,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 20,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 17,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 4,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 10,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 8,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 7,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 16,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 12,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 13,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 14,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 6,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 22,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 11,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 18,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 15,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 3,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 21,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 2,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 5,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 9,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  }
+              ],
+              "is_third_party_vip": false,
+              "is_domestic_only": false,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclae53_g5yaP9hmEGtOdJW7e0qi1wzuOcH0QK98zuF4LU",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "uploader_id": 1390376387,
+              "uploader_name": "淘梦电影",
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 3,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "717f9613a9684843e0775bedf16b4360",
+          "score": 0.834913,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 1091941400,
+              "albumTitle": "解码游戏",
+              "albumAlias": "解码者;Reborn",
+              "description": "宅男黑客李浩铭被代号“斑马”的职业罪犯乔飞和神秘女孩苏仪绑架，被迫卷入了一起诡谲奇异的案件中，与深网黑暗巨头闫岳斗智斗勇。陷入冒险游戏中的浩铭和乔飞渐渐成为一对生死拍档，而在不断浮出的“真相”背后，其实隐藏着更深的秘密……",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rr0dqzjo.html",
+              "albumVImage": "http://pic6.iqiyipic.com/image/20180807/a8/fe/v_116526022_m_601_m4.jpg",
+              "albumHImage": "http://pic6.iqiyipic.com/image/20180807/a8/fe/v_116526022_m_601_m4.jpg",
+              "director": "李海龙",
+              "star": "韩庚;凤小岳;李媛;山下智久",
+              "region": "内地",
+              "season": "0",
+              "releaseDate": "20180803",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic6.iqiyipic.com/image/20180807/a8/fe/v_116526022_m_601_m4.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 134468,
+              "score": 6.9,
+              "series": false,
+              "threeCategory": "院线,27815,7 1080P,999,7 新片,30089,7 犯罪,291,2 动作,11,2 喜剧,8,2 内地,28996,1 华语,1,1",
+              "tvFocus": "韩庚上演IT版无间道",
+              "videoDocType": 1,
+              "isDownload": false,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "解码游戏",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic6.iqiyipic.com/image/20180807/a8/fe/v_116526022_m_601_m4.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rr0dqzjo.html",
+                      "timeLength": 5932,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-11 15:30:08",
+                      "tvId": 1091941400,
+                      "vid": "5a063fabbb6ca9abfa893c03d27a6b94",
+                      "vFocus": "韩庚上演IT版无间道",
+                      "is1080p": true,
+                      "year": 20180803,
+                      "uploadTime": "",
+                      "itemshortTitle": "解码游戏",
+                      "qipu_id": 1091941400,
+                      "is_vip": true,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclTpG0UVVQIXaaOU3-RBlDQCAyjpyjZiHx9M1ag74vRbO",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "856x360"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "腾讯",
+                      "siteId": "qq",
+                      "docid": "qq:7d1a385c77037e2fa0f7955339d06cbc",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "优酷",
+                      "siteId": "youku",
+                      "docid": "youku:1c9d05e9ee2278f13adb577aa7a84b9e",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "PP视频",
+                      "siteId": "pptv",
+                      "docid": "pptv:a048fc869e5438417d87e161bb0251de",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 1091941400,
+              "video_lib_meta": {
+                  "entity_id": 217927814,
+                  "title": "解码游戏",
+                  "director": [
+                      {
+                          "id": 238616005,
+                          "name": "李海龙",
+                          "image_url": "http://pic1.iqiyipic.com/image/20180621/d2/0e/p_5254927_m_601.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 215336805,
+                          "name": "韩庚",
+                          "image_url": "http://pic9.iqiyipic.com/image/20160307/af/8e/p_2001322_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 214726905,
+                          "name": "凤小岳",
+                          "image_url": "http://pic9.iqiyipic.com/image/20170616/37/4d/p_2012913_m_601_m11.jpg"
+                      },
+                      {
+                          "id": 215025905,
+                          "name": "李媛",
+                          "image_url": "http://pic3.iqiyipic.com/image/20180518/1c/98/p_2008765_m_601_m4.jpg"
+                      },
+                      {
+                          "id": 214960205,
+                          "name": "山下智久",
+                          "image_url": "http://pic2.iqiyipic.com/image/20170515/ee/ed/p_2003000_m_601_m3.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 99,
+                  "global_publish_date": "20180803",
+                  "china_publish_date": "20180803",
+                  "short_comment": "韩庚上演IT版无间道",
+                  "poster": "http://pic6.iqiyipic.com/image/20180807/a8/fe/v_116526022_m_601_m4.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "喜剧",
+                      "动作",
+                      "犯罪"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_217927814.html",
+                  "douban_id": 26767512,
+                  "filmtv_update_strategy": "1",
+                  "description": "宅男黑客李浩铭被代号“斑马”的职业罪犯乔飞和神秘女孩苏仪绑架，被迫卷入了一起诡谲奇异的案件中，与深网黑暗巨头闫岳斗智斗勇。陷入冒险游戏中的浩铭和乔飞渐渐成为一对生死拍档，而在不断浮出的“真相”背后，其实隐藏着更深的秘密",
+                  "alias": "解码者;Reborn"
+              },
+              "latest_update_time": 1536651008,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7",
+              "is_third_party_vip": true,
+              "is_domestic_only": true,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclTpG0UVVQIXaaOU3-RBlDQCAyjpyjZiHx9M1ag74vRbO",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 4,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "904d0d93405d640e8ecbf0ae8d72c2f1",
+          "score": 0.827725,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 775519700,
+              "albumTitle": "追龙",
+              "albumAlias": "追龍;跛豪;卧虎2",
+              "albumEnglishTitle": " Chasing the Dragon",
+              "description": "电影讲述了香港现代史上两大著名狠角色大毒枭跛豪、五亿探长雷洛的传奇故事。 \n上世纪六七十年代，香港由英国殖民，权势腐败、社会混乱。1963年，穷困潦倒的青年阿豪偷渡至香港，抱着“生死有命、富贵在天”之心决意一搏人生。阿豪带着几个兄弟，从九龙城寨底层开始一路刀刃舔血，爬上香港毒品霸主之位，一手掌控香港十大黑帮，江湖人称“跛豪”。而雷洛则从一位普通探长一步步爬上华人总探长高位，统领全香港三万警察，手握香港治安“潜规则”。为垄断香港黄赌毒三大经济产业，跛豪与雷洛结拜为兄弟，两人一黑一白两手遮天，权势滔天，家财亿万，独霸香港岛……",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rr8ya20o.html",
+              "albumVImage": "http://pic0.iqiyipic.com/image/20180220/67/36/v_113305727_m_601_m6.jpg",
+              "albumHImage": "http://pic0.iqiyipic.com/image/20180220/67/36/v_113305727_m_601_m6.jpg",
+              "director": "王晶;关智耀",
+              "star": "甄子丹;刘德华;姜皓文;郑则仕;刘浩龙;汤镇业;喻亢;胡然;徐冬冬;黄日华;陈惠敏",
+              "region": "内地",
+              "season": "0",
+              "releaseDate": "20170930",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic0.iqiyipic.com/image/20180220/67/36/v_113305727_m_601_m6.jpg",
+              "contentType": 1,
+              "isPurchase": 0,
+              "playCount": 130007410,
+              "score": 9,
+              "series": false,
+              "threeCategory": "院线,27815,7 1080P,999,7 新片,30089,7 犯罪,291,2 动作,11,2 内地,28996,1 香港,28997,1 华语,1,1",
+              "tvFocus": "跛豪雷洛战江湖",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "追龙",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic0.iqiyipic.com/image/20180220/67/36/v_113305727_m_601_m6.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rr8ya20o.html",
+                      "timeLength": 7736,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2017-12-17 15:30:07",
+                      "tvId": 775519700,
+                      "vid": "9c60da071fa04a69b308f7b51b020524",
+                      "vFocus": "跛豪雷洛战江湖",
+                      "is1080p": true,
+                      "year": 20170930,
+                      "uploadTime": "",
+                      "itemshortTitle": "追龙",
+                      "qipu_id": 775519700,
+                      "is_vip": false,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclciwhDuthX_Cp9xOEwBubV96hglDoozePFFGOZc8lBcG",
+                      "vip_type": [
+                          0
+                      ],
+                      "is_pay": false,
+                      "screen_size": "480x200"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "腾讯",
+                      "siteId": "qq",
+                      "docid": "qq:67bc01fb86b6f2012778ba025f73b61a",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "芒果tv",
+                      "siteId": "imgo",
+                      "docid": "imgo:abaf10d1095694ef15e8850236f82f05",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "优酷",
+                      "siteId": "youku",
+                      "docid": "youku:cf80b1a2d1f6987167549229f85f7b42",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "PP视频",
+                      "siteId": "pptv",
+                      "docid": "pptv:9655e5fb05c665e4098de58c50549ff6",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 775519700,
+              "video_lib_meta": {
+                  "entity_id": 214757814,
+                  "title": "追龙",
+                  "director": [
+                      {
+                          "id": 214259905,
+                          "name": "王晶",
+                          "image_url": "http://pic0.iqiyipic.com/image/20160307/30/05/p_5043809_m_601_m4.jpg"
+                      },
+                      {
+                          "id": 234164705,
+                          "name": "关智耀",
+                          "image_url": "http://pic7.iqiyipic.com/image/20170411/12/0c/p_5231203_m_601.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 214386205,
+                          "name": "甄子丹",
+                          "image_url": "http://pic2.iqiyipic.com/image/20170511/eb/60/p_2004436_m_601_m4.jpg"
+                      },
+                      {
+                          "id": 200002105,
+                          "name": "刘德华",
+                          "image_url": "http://pic0.iqiyipic.com/image/20161110/6a/39/p_23_m_601_m6.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 128,
+                  "global_publish_date": "20170930",
+                  "short_comment": "甄子丹刘德华掀风云",
+                  "poster": "http://pic0.iqiyipic.com/image/20180220/67/36/v_113305727_m_601_m6.jpg",
+                  "language": [
+                      "普通话",
+                      "粤语"
+                  ],
+                  "region": [
+                      "中国大陆",
+                      "香港"
+                  ],
+                  "category": [
+                      "动作",
+                      "犯罪"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_214757814.html",
+                  "douban_id": 26425068,
+                  "filmtv_update_strategy": "1",
+                  "description": "　电影讲述了香港现代史上两大著名狠角色大毒枭跛豪（甄子丹饰）、五亿探长雷洛（刘德华饰）的传奇故事。 \n　　上世纪六七十年代，香港由英国殖民，权势腐败、社会混乱。1963年，穷困潦倒的青年阿豪（甄子丹饰）偷渡至香港，抱着“生死有命、富贵在天”之心决意一搏人生。阿豪带着几个兄弟，从九龙城寨底层开始一路刀刃舔血，爬上香港毒品霸主之位，一手掌控香港十大黑帮，江湖人称“跛豪”。而雷洛（刘德华饰）则从一位普通探长一步步爬上华人总探长高位，统领全香港三万警察，手握香港治安“潜规则”。为垄断香港黄赌毒三大经济产业，跛豪与雷洛结拜为兄弟，两人一黑一白两手遮天，权势滔天，家财亿万，独霸香港岛……",
+                  "alias": "追龍;跛豪;卧虎2"
+              },
+              "latest_update_time": 1513495807,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7,8",
+              "is_third_party_vip": false,
+              "is_domestic_only": true,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclciwhDuthX_Cp9xOEwBubV96hglDoozePFFGOZc8lBcG",
+              "vip_type": [
+                  0
+              ],
+              "is_vr_standalone": true
+          },
+          "sort": 5,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "46e032da63b2625491b7215c37f889c0",
+          "score": 0.82042,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 916069400,
+              "albumTitle": "的士速递5",
+              "albumAlias": "出租车5;终极杀阵5",
+              "albumEnglishTitle": "Taxi 5",
+              "description": "巴黎警官西尔万因执行任务的方式过于激进,被调任马赛 社区警局。赴任第一天,便遇到意大利超跑帮抢劫珠宝,劫匪驾驶着法拉利风驰电 掣,让西尔万和“各怀绝技”的警员们“望尘莫及”、出尽洋相。正当西尔万一筹 莫展之际,他结识了憨厚莽撞的出租车司机埃迪。两人毫无默 契,却要合力抓捕疑犯,一场状况频出、笑料横行的猫鼠游戏即刻展开....",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rrfsdsvo.html",
+              "albumVImage": "http://pic4.iqiyipic.com/image/20180914/37/c8/v_114736063_m_601_m7.jpg",
+              "albumHImage": "http://pic4.iqiyipic.com/image/20180914/37/c8/v_114736063_m_601_m7.jpg",
+              "director": "弗兰克·盖斯堂彼得",
+              "star": "弗兰克·盖斯堂彼得",
+              "region": "法国",
+              "season": "0",
+              "releaseDate": "20180803",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic4.iqiyipic.com/image/20180914/37/c8/v_114736063_m_601_m7.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 1418257,
+              "score": 7.3,
+              "series": false,
+              "threeCategory": "院线,27815,7 1080P,999,7 新片,30089,7 犯罪,291,2 动作,11,2 喜剧,8,2 法国,29000,1",
+              "tvFocus": "光头硬汉极速飙车",
+              "videoDocType": 1,
+              "isDownload": false,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "的士速递5",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic4.iqiyipic.com/image/20180914/37/c8/v_114736063_m_601_m7.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rrfsdsvo.html",
+                      "timeLength": 5948,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-14 09:30:17",
+                      "tvId": 916069400,
+                      "vid": "57483dd10acfd78160db036541235711",
+                      "vFocus": "光头硬汉极速飙车",
+                      "is1080p": true,
+                      "year": 20180803,
+                      "uploadTime": "",
+                      "itemshortTitle": "的士速递5",
+                      "qipu_id": 916069400,
+                      "is_vip": true,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbcla8k32XgPoBPC32tdCI5R9W_YFm3kd2VfCGyih5OMCuX",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "864x360"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "腾讯",
+                      "siteId": "qq",
+                      "docid": "qq:66955814dddd1af258c56f3a26e8f886",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "PP视频",
+                      "siteId": "pptv",
+                      "docid": "pptv:eeb8ecf99b11229a5229a941c16ace6d",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 916069400,
+              "video_lib_meta": {
+                  "entity_id": 216709014,
+                  "title": "的士速递5",
+                  "director": [
+                      {
+                          "id": 215635605,
+                          "name": "弗兰克·盖斯堂彼得",
+                          "image_url": "http://pic3.iqiyipic.com/image/20180615/e7/32/p_5045987_m_601.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 215635605,
+                          "name": "弗兰克·盖斯堂彼得",
+                          "image_url": "http://pic3.iqiyipic.com/image/20180615/e7/32/p_5045987_m_601.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 102,
+                  "global_publish_date": "20180803",
+                  "china_publish_date": "20180803",
+                  "short_comment": "光头硬汉极速飙车",
+                  "poster": "http://pic4.iqiyipic.com/image/20180914/37/c8/v_114736063_m_601_m7.jpg",
+                  "language": [
+                      "法语"
+                  ],
+                  "region": [
+                      "法国"
+                  ],
+                  "category": [
+                      "喜剧",
+                      "动作",
+                      "犯罪"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_216709014.html",
+                  "douban_id": 27615564,
+                  "filmtv_update_strategy": "1",
+                  "description": "巴黎警官西尔万因执行任务的方式过于激进,被调任马赛 社区警局。赴任第一天,便遇到意大利超跑帮抢劫珠宝,劫匪驾驶着法拉利风驰电 掣,让西尔万和“各怀绝技”的警员们“望尘莫及”、出尽洋相。正当西尔万一筹 莫展之际,他结识了憨厚莽撞的出租车司机埃迪。两人毫无默 契,却要合力抓捕疑犯,一场状况频出、笑料横行的猫鼠游戏即刻展开",
+                  "alias": "出租车5;终极杀阵5"
+              },
+              "latest_update_time": 1536888617,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7,8",
+              "is_third_party_vip": true,
+              "is_domestic_only": true,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_album_order": 5,
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbcla8k32XgPoBPC32tdCI5R9W_YFm3kd2VfCGyih5OMCuX",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 6,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "72c7f34ff21e4ffe423bcad85adce4cb",
+          "score": 0.818482,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 1276204900,
+              "albumTitle": "怪兽",
+              "albumSubTitle": "怪兽2018",
+              "description": "一辆大巴车被时空漩涡传送到了遍布着怪兽的异星荒原上，仅剩五个男人和一个小女孩生还。时空漩涡使大家丢失了记忆，五位“爸爸”决定共同护送“小女儿”回家。在爸爸们的拼命的努力下，小女孩最终平安返回了地球。",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rqzjloug.html",
+              "albumVImage": "http://pic2.iqiyipic.com/image/20180919/42/04/v_118398021_m_601_m4.jpg",
+              "albumHImage": "http://pic2.iqiyipic.com/image/20180919/42/04/v_118398021_m_601_m4.jpg",
+              "director": "戴金垸",
+              "star": "郑铭;韩彦博;卢野;肖龙;陈三木;杨苏",
+              "region": "内地",
+              "season": "0",
+              "releaseDate": "20180919",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic2.iqiyipic.com/image/20180919/42/04/v_118398021_m_601_m4.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 718720,
+              "score": 7.3,
+              "series": false,
+              "threeCategory": "网络大电影,27401,7 剧情,127,2 悬疑,289,2 动作,11,2 科幻,9,2 内地,28996,1 华语,1,1",
+              "tvFocus": "异兽荒原绝境求生",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "怪兽",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic2.iqiyipic.com/image/20180919/42/04/v_118398021_m_601_m4.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rqzjloug.html",
+                      "timeLength": 4808,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-19 15:30:12",
+                      "tvId": 1276204900,
+                      "vid": "bf494056cc9fd8d42c3bb5353f6873af",
+                      "vFocus": "异兽荒原绝境求生",
+                      "subTitle": "怪兽2018",
+                      "is1080p": true,
+                      "year": 20180919,
+                      "uploadTime": "",
+                      "itemshortTitle": "怪兽",
+                      "qipu_id": 1276204900,
+                      "is_vip": true,
+                      "is_domestic_only": false,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclXCLFtOkWln5Mm9LXjAVK3pVq8rSIsOo9j8g3Wn-e03w",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "480x200"
+                  }
+              ],
+              "is_exclusive": true,
+              "qipu_id": 1276204900,
+              "video_lib_meta": {
+                  "entity_id": 218465614,
+                  "title": "怪兽",
+                  "director": [
+                      {
+                          "id": 203778805,
+                          "name": "戴金垸"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 238428805,
+                          "name": "郑铭",
+                          "image_url": "http://pic9.iqiyipic.com/image/20180517/3a/82/p_5253973_m_601.jpg"
+                      },
+                      {
+                          "id": 231092805,
+                          "name": "韩彦博",
+                          "image_url": "http://pic2.iqiyipic.com/image/20180613/a9/87/p_5200486_m_601.jpg"
+                      },
+                      {
+                          "id": 202484105,
+                          "name": "卢野",
+                          "image_url": "http://pic2.iqiyipic.com/image/20160307/e9/dd/p_1019505_m_601_m1.jpg"
+                      },
+                      {
+                          "id": 226235405,
+                          "name": "肖龙"
+                      },
+                      {
+                          "id": 206636805,
+                          "name": "陈三木",
+                          "image_url": "http://pic6.iqiyipic.com/image/20160307/69/c8/p_1061032_m_601_m1.jpg"
+                      },
+                      {
+                          "id": 238980205,
+                          "name": "杨苏",
+                          "image_url": "http://pic3.iqiyipic.com/image/20180815/d4/57/p_5256787_m_601.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 80,
+                  "global_publish_date": "20180919",
+                  "short_comment": "异兽荒原绝境求生",
+                  "poster": "http://pic2.iqiyipic.com/image/20180919/42/04/v_118398021_m_601_m4.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "剧情",
+                      "动作",
+                      "悬疑",
+                      "科幻"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_218465614.html",
+                  "filmtv_update_strategy": "1",
+                  "description": "一辆大巴车被时空漩涡传送到了遍布着怪兽的异星荒原上，仅剩五个男人和一个小女孩生还。时空漩涡使大家丢失了记忆，五位“爸爸”决定共同护送“小女儿”回家。在爸爸们的拼命的努力下，小女孩最终平安返回了地球。"
+              },
+              "latest_update_time": 1537342212,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7",
+              "black_platform_region": [
+                  {
+                      "play_platform": 1,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 19,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 20,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 17,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 4,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 10,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 8,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 7,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 16,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 12,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 13,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 14,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 6,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 22,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 11,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 18,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 15,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 3,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 21,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 2,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 5,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 9,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  }
+              ],
+              "is_third_party_vip": false,
+              "is_domestic_only": false,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclXCLFtOkWln5Mm9LXjAVK3pVq8rSIsOo9j8g3Wn-e03w",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "uploader_id": 1240175550,
+              "uploader_name": "兔子洞文化",
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 7,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "8c832f74cf518934c94b6b4e2dd2e3d5",
+          "score": 0.794664,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 565554,
+              "albumTitle": "特殊身份",
+              "albumAlias": "终极解码",
+              "albumEnglishTitle": "Special ID",
+              "albumSubTitle": "",
+              "description": "身怀绝技、出手不凡的陈子龙是潜伏黑道多年的卧底，作为老大长毛雄的左膀右臂，他的身心承受巨大压力，加上老大已对他升起疑心，威胁子龙妈妈的性命，他急切希望复职，退出黑道。这一次，雄哥派子龙前往内地查探组织成员Sunny罗志伟的虚实。Sunny出身美国唐人街，早年曾跟子龙混迹江湖，但逐渐做大的他暗中黑了雄哥的货。另一方面，子龙的上司张Sir以复职为交换，同样命子龙调查Sunny。谁知内地之行凶险非常，Sunny为人狡猾毒辣，而与内地警方的配合又矛盾冲突频频，加上神秘刺客“刀锋”时隐时现，子龙不知不觉踏入阴谋重重的漩涡之中",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rriful2y.html",
+              "albumVImage": "http://pic4.iqiyipic.com/image/20180212/bb/02/v_50739926_m_601_m6.jpg",
+              "albumHImage": "http://pic4.iqiyipic.com/image/20180212/bb/02/v_50739926_m_601_m6.jpg",
+              "director": "霍耀良",
+              "star": "甄子丹;景甜;张涵予",
+              "region": "华语",
+              "season": "0",
+              "releaseDate": "20131018",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic4.iqiyipic.com/image/20180212/bb/02/v_50739926_m_601_m6.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 190172419,
+              "score": 8.8,
+              "series": false,
+              "threeCategory": "暗杀,27425,8 杀戮,27426,8 院线,27815,7 剧情,127,2 惊悚,128,2 犯罪,291,2 动作,11,2 华语,1,1",
+              "tvFocus": "甄子丹街头搏杀飚车",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "特殊身份",
+                      "itemNumber": 1,
+                      "itemVImage": "http://www.iqiyipic.com/thumb/20130730/a565554.jpg",
+                      "itemHImage": "http://pic4.iqiyipic.com/image/20180212/bb/02/v_50739926_m_601_m6.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rriful2y.html",
+                      "timeLength": 5687,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2013-08-23 17:36:33",
+                      "tvId": 739926,
+                      "vid": "9bb8d47bb287447eb8b2939f644dbb43",
+                      "vFocus": "甄子丹街头搏杀飚车",
+                      "subTitle": "",
+                      "albumId": 565554,
+                      "is1080p": true,
+                      "year": 20131018,
+                      "itemUploadID": 198537997,
+                      "uploadTime": "",
+                      "p2pLink": "pps://zjqh4d6qeby46ojd2aqhppef3hicbnz5vex5aib4uuxbxuba.pps/iqiyi/w/wbfb4a3cnomysu3cev7bmq7a66md2fiz.pfv?tvid=198537997&qiyitvid=163992600&vid=9bb8d47bb287447eb8b2939f644dbb43&ischarge=true",
+                      "itemshortTitle": "特殊身份",
+                      "qipu_id": 163992600,
+                      "is_vip": true,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclV0_nu-v8tyu8jytaAl8Fsi1Zk8MBni_kaOScDkDljLR",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "832x360"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "腾讯",
+                      "siteId": "qq",
+                      "docid": "qq:d51e37e8a1e54a4eebd94c338fc49bf2",
+                      "total_video_number": 2
+                  },
+                  {
+                      "siteName": "电影网",
+                      "siteId": "m1905",
+                      "docid": "m1905:caf4c4854ea797c332f8af1e4111db55",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 163992600,
+              "video_lib_meta": {
+                  "entity_id": 200059314,
+                  "title": "特殊身份",
+                  "director": [
+                      {
+                          "id": 214607105,
+                          "name": "霍耀良",
+                          "image_url": "http://pic1.iqiyipic.com/image/20160307/79/4b/p_2004886_m_601_m1.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 214386205,
+                          "name": "甄子丹",
+                          "image_url": "http://pic2.iqiyipic.com/image/20170511/eb/60/p_2004436_m_601_m4.jpg"
+                      }
+                  ],
+                  "total_video_count": 1,
+                  "duration": 99,
+                  "season": 0,
+                  "global_publish_date": "20131018",
+                  "short_comment": "港深街头搏杀飚车",
+                  "poster": "http://pic4.iqiyipic.com/image/20180212/bb/02/v_50739926_m_601_m6.jpg",
+                  "language": [
+                      "普通话",
+                      "粤语"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "动作"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_200059314.html",
+                  "douban_id": 23126901,
+                  "douban_score": 38,
+                  "filmtv_update_strategy": "1",
+                  "description": "身怀绝技、出手不凡的陈子龙是潜伏黑道多年的卧底，作为老大长毛雄的左膀右臂，他的身心承受巨大压力，加上老大已对他升起疑心，威胁子龙妈妈的性命，他急切希望复职，退出黑道。这一次，雄哥派子龙前往内地查探组织成员Sunny罗志伟的虚实。Sunny出身美国唐人街，早年曾跟子龙混迹江湖，但逐渐做大的他暗中黑了雄哥的货。另一方面，子龙的上司张Sir以复职为交换，同样命子龙调查Sunny。谁知内地之行凶险非常，Sunny为人狡猾毒辣，而与内地警方的配合又矛盾冲突频频，加上神秘刺客“刀锋”时隐时现，子龙不知不觉踏入阴谋重重的漩涡之中",
+                  "alias": "终极解码"
+              },
+              "latest_update_time": 1377250593,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,6,7,8",
+              "is_third_party_vip": true,
+              "is_domestic_only": true,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclV0_nu-v8tyu8jytaAl8Fsi1Zk8MBni_kaOScDkDljLR",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 8,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "bceddd17bd1ca727afaed9ca970d2721",
+          "score": 0.785799,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 1293508100,
+              "albumTitle": "道师爷",
+              "albumSubTitle": "道师爷",
+              "description": "民国时期，一代奇人关师爷行走江湖，引发的三段故事。第一段故事“吴老爷举债难还，  十字路祭妖求财”，狐妖勾人精魄，关师爷斗法降妖，因此关师爷结识了八字全阴，逢赌必 输的叶飞，二人联手救人，关师爷斗法妖狐，就此结下不解之缘。\n《道师爷》引自民间故事。道师爷行侠仗义、斩妖伏魔，是他们坚持一生的信念让他们达 到永恒，真正的演绎了自我，正所谓三条大道走中央，善恶到头终有报，人间正道是沧桑！",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rqz9xduw.html",
+              "albumVImage": "http://pic9.iqiyipic.com/image/20180919/b4/31/v_118575698_m_601_m6.jpg",
+              "albumHImage": "http://pic9.iqiyipic.com/image/20180919/b4/31/v_118575698_m_601_m6.jpg",
+              "director": "刘轩狄",
+              "star": "梁家仁;楼南光;林枫烨;付赫安琪",
+              "region": "内地",
+              "season": "0",
+              "releaseDate": "20180907",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic9.iqiyipic.com/image/20180919/b4/31/v_118575698_m_601_m6.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 883373,
+              "score": 8.2,
+              "series": false,
+              "threeCategory": "打怪,27423,8 网络大电影,27401,7 动作,11,2 玄幻,31189,2 奇幻,1284,2 喜剧,8,2 内地,28996,1 华语,1,1",
+              "tvFocus": "梁家仁斩妖除魔",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "道师爷",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic9.iqiyipic.com/image/20180919/b4/31/v_118575698_m_601_m6.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rqz9xduw.html",
+                      "timeLength": 4656,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2018-09-07 15:30:09",
+                      "tvId": 1293508100,
+                      "vid": "eac4aaa414379cdca9fb1ac39b0615a9",
+                      "vFocus": "梁家仁斩妖除魔",
+                      "subTitle": "道师爷",
+                      "is1080p": true,
+                      "year": 20180907,
+                      "uploadTime": "",
+                      "itemshortTitle": "道师爷",
+                      "qipu_id": 1293508100,
+                      "is_vip": true,
+                      "is_domestic_only": false,
+                      "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_dolby": true,
+                      "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclR4ZLTuv6WMQdnZRnez3GJTdvuO8OggPl1qTHYiSVyR4",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "848x360"
+                  }
+              ],
+              "is_exclusive": true,
+              "qipu_id": 1293508100,
+              "video_lib_meta": {
+                  "entity_id": 218500214,
+                  "title": "道师爷",
+                  "director": [
+                      {
+                          "id": 238169805,
+                          "name": "刘轩狄",
+                          "image_url": "http://pic7.iqiyipic.com/image/20180402/17/09/p_5252675_m_601.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 214340005,
+                          "name": "梁家仁",
+                          "image_url": "http://pic9.iqiyipic.com/image/20170718/dd/8c/p_2001939_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 214621605,
+                          "name": "楼南光",
+                          "image_url": "http://pic1.iqiyipic.com/image/20160307/b8/78/p_2005812_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 233295405,
+                          "name": "林枫烨",
+                          "image_url": "http://pic1.iqiyipic.com/image/20171215/84/6b/p_5222511_m_601.jpg"
+                      },
+                      {
+                          "id": 228911305,
+                          "name": "付赫安琪",
+                          "image_url": "http://pic6.iqiyipic.com/image/20170801/19/e5/p_5178671_m_601.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 77,
+                  "global_publish_date": "20180907",
+                  "short_comment": "梁家仁斩妖除魔",
+                  "poster": "http://pic9.iqiyipic.com/image/20180919/b4/31/v_118575698_m_601_m6.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "玄幻",
+                      "喜剧",
+                      "动作",
+                      "奇幻"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_218500214.html",
+                  "filmtv_update_strategy": "1",
+                  "description": "民国时期，一代奇人关师爷行走江湖，引发的三段故事。第一段故事“吴老爷举债难还，  十字路祭妖求财”，狐妖勾人精魄，关师爷斗法降妖，因此关师爷结识了八字全阴，逢赌必 输的叶飞，二人联手救人，关师爷斗法妖狐，就此结下不解之缘。\n《道师爷》引自民间故事。道师爷行侠仗义、斩妖伏魔，是他们坚持一生的信念让他们达 到永恒，真正的演绎了自我，正所谓三条大道走中央，善恶到头终有报，人间正道是沧桑！"
+              },
+              "latest_update_time": 1536305409,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7,8",
+              "black_platform_region": [
+                  {
+                      "play_platform": 1,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 19,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 20,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 17,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 4,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 10,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 8,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 7,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 16,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 12,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 13,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 14,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 6,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 22,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 11,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 18,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 15,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 3,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 21,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 2,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 5,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  },
+                  {
+                      "play_platform": 9,
+                      "location": [
+                          {
+                              "province": "台湾",
+                              "province_id": 228
+                          }
+                      ]
+                  }
+              ],
+              "is_third_party_vip": false,
+              "is_domestic_only": false,
+              "access_play_control_platform": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "downloadable_platforms": "1,19,20,17,4,10,8,7,16,12,13,14,6,22,11,18,15,3,21,2,5,9",
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclR4ZLTuv6WMQdnZRnez3GJTdvuO8OggPl1qTHYiSVyR4",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "uploader_id": 1394359786,
+              "uploader_name": "信风影业",
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 9,
+          "is_from_intent": false
+      },
+      {
+          "doc_id": "54f584dbbec332bf8d33d6c5af38605c",
+          "score": 0.781136,
+          "pos": 1,
+          "albumDocInfo": {
+              "albumId": 820545900,
+              "albumTitle": "战狼2",
+              "albumAlias": "新战狼;新战死沙场",
+              "albumEnglishTitle": "Wolf Warriors 2",
+              "description": "故事发生在非洲附近的大海上，主人公冷锋遭遇人生滑铁卢，被“开除军籍”，本想漂泊一生的他，正当他打算这么做的时候，一场突如其来的意外打破了他的计划，突然被卷入了一场非洲国家叛乱，本可以安全撤离，却因无法忘记曾经为军人的使命，孤身犯险冲回沦陷区，带领身陷屠杀中的同胞和难民，展开生死逃亡。随着斗争的持续，体内的狼性逐渐复苏，最终孤身闯入战乱区域，为同胞而战斗。",
+              "channel": "电影,1",
+              "albumLink": "http://www.iqiyi.com/v_19rre19on4.html",
+              "albumVImage": "http://pic9.iqiyipic.com/image/20180220/93/eb/v_113763212_m_601_m2.jpg",
+              "albumHImage": "http://pic9.iqiyipic.com/image/20180220/93/eb/v_113763212_m_601_m2.jpg",
+              "director": "吴京",
+              "star": "吴京;弗兰克·格里罗;吴刚;张翰;卢靖姗;丁海峰;淳于珊珊;余男;于谦;石兆琪;奥列格·斯特里仁诺夫;Thayr Harris;苇青;杜建桥",
+              "region": "华语",
+              "season": "0",
+              "releaseDate": "20170727",
+              "itemTotalNumber": 1,
+              "siteName": "爱奇艺",
+              "siteId": "iqiyi",
+              "albumImg": "http://pic9.iqiyipic.com/image/20180220/93/eb/v_113763212_m_601_m2.jpg",
+              "contentType": 1,
+              "isPurchase": 2,
+              "playCount": 462533081,
+              "score": 9.3,
+              "series": false,
+              "threeCategory": "决斗,31179,8 救援,27421,8 院线,27815,7 杜比视界,32433,7 杜比全景声,32431,7 新片,30089,7 杜比音效,29696,7 1080P,999,7 动作,11,2 枪战,131,2 战争,7,2 内地,28996,1 华语,1,1",
+              "tvFocus": "硬汉吴京搏命出击",
+              "videoDocType": 1,
+              "isDownload": true,
+              "is3D": false,
+              "videoinfos": [
+                  {
+                      "itemTitle": "战狼2",
+                      "itemNumber": 1,
+                      "itemHImage": "http://pic9.iqiyipic.com/image/20180220/93/eb/v_113763212_m_601_m2.jpg",
+                      "itemLink": "http://www.iqiyi.com/v_19rre19on4.html",
+                      "timeLength": 7375,
+                      "playedNumber": 1,
+                      "initialIssueTime": "2017-11-02 23:54:40",
+                      "tvId": 820545900,
+                      "vid": "e08f20fc3f0dfb0247cc0a6b837736c0",
+                      "vFocus": "硬汉吴京搏命出击",
+                      "is1080p": true,
+                      "year": 20170727,
+                      "uploadTime": "",
+                      "itemshortTitle": "战狼2",
+                      "qipu_id": 820545900,
+                      "is_vip": true,
+                      "is_domestic_only": true,
+                      "access_play_control_platform": "7,16,12,13,11,15,2,9,1,19,20,4,17,10,8,14,6,22,18,3,21,5",
+                      "is_dolby": true,
+                      "downloadable_platforms": "7,16,12,13,11,15,2,9,1,19,20,4,17,10,8,14,6,22,18,3,21,5",
+                      "is_pano": false,
+                      "secret_link": "5dwD0rTDiL7F2SrVBTbclb31a5LBEWaY3e8KOieMVj3_pimbAXZ_cVU1ULPpXV-X",
+                      "vip_type": [
+                          0
+                      ],
+                      "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+                      "is_pay": false,
+                      "screen_size": "480x200"
+                  }
+              ],
+              "clusterinfos": [
+                  {
+                      "siteName": "腾讯",
+                      "siteId": "qq",
+                      "docid": "qq:65eaf7814ebf844f73556755f85f8921",
+                      "total_video_number": 1
+                  },
+                  {
+                      "siteName": "优酷",
+                      "siteId": "youku",
+                      "docid": "youku:58a6d297f0bb32ced2482cbce20d4527",
+                      "total_video_number": 1
+                  }
+              ],
+              "is_exclusive": false,
+              "qipu_id": 820545900,
+              "video_lib_meta": {
+                  "entity_id": 215702614,
+                  "title": "战狼2",
+                  "director": [
+                      {
+                          "id": 202599805,
+                          "name": "吴京",
+                          "image_url": "http://pic2.iqiyipic.com/image/20170509/e0/a3/p_1020662_m_601_m2.jpg"
+                      }
+                  ],
+                  "actor": [
+                      {
+                          "id": 202599805,
+                          "name": "吴京",
+                          "image_url": "http://pic2.iqiyipic.com/image/20170509/e0/a3/p_1020662_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 215429405,
+                          "name": "弗兰克·格里罗",
+                          "image_url": "http://pic3.iqiyipic.com/image/20160308/f6/9e/p_2014933_m_601_m3.jpg"
+                      },
+                      {
+                          "id": 215003205,
+                          "name": "吴刚",
+                          "image_url": "http://pic9.iqiyipic.com/image/20170731/ba/b3/p_2006846_m_601_m7.jpg"
+                      },
+                      {
+                          "id": 214782905,
+                          "name": "张翰",
+                          "image_url": "http://pic9.iqiyipic.com/image/20170731/f5/68/p_2004277_m_601_m13.jpg"
+                      },
+                      {
+                          "id": 214528405,
+                          "name": "卢靖姗",
+                          "image_url": "http://pic8.iqiyipic.com/image/20180518/21/cd/p_2012646_m_601_m6.jpg"
+                      },
+                      {
+                          "id": 215231705,
+                          "name": "丁海峰",
+                          "image_url": "http://pic0.iqiyipic.com/image/20170731/f6/4f/p_2000676_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 204861505,
+                          "name": "淳于珊珊",
+                          "image_url": "http://pic5.iqiyipic.com/image/20170717/77/e5/p_1043279_m_601_m2.jpg"
+                      },
+                      {
+                          "id": 214779605,
+                          "name": "余男",
+                          "image_url": "http://pic3.iqiyipic.com/image/20170807/e0/97/p_2003960_m_601_m7.jpg"
+                      },
+                      {
+                          "id": 214778705,
+                          "name": "于谦",
+                          "image_url": "http://pic1.iqiyipic.com/image/20170908/7f/aa/p_2003926_m_601_m4.jpg"
+                      },
+                      {
+                          "id": 214961105,
+                          "name": "石兆琪",
+                          "image_url": "http://pic3.iqiyipic.com/image/20170713/ca/a9/p_2003041_m_601_m3.jpg"
+                      },
+                      {
+                          "id": 208121305,
+                          "name": "奥列格·斯特里仁诺夫",
+                          "image_url": "http://pic7.iqiyipic.com/image/20160307/82/d7/p_2009113_m_601_m1.jpg"
+                      },
+                      {
+                          "id": 232352805,
+                          "name": "Thayr Harris",
+                          "image_url": "http://pic3.iqiyipic.com/image/20180123/bf/33/p_5213085_m_601.jpg"
+                      },
+                      {
+                          "id": 215001805,
+                          "name": "苇青",
+                          "image_url": "http://pic2.iqiyipic.com/image/20170727/d5/8f/p_2006807_m_601_m4.jpg"
+                      },
+                      {
+                          "id": 204326005,
+                          "name": "杜建桥",
+                          "image_url": "http://pic9.iqiyipic.com/image/20160307/ae/28/p_1037924_m_601_m2.jpg"
+                      }
+                  ],
+                  "total_video_count": 0,
+                  "duration": 123,
+                  "global_publish_date": "20170727",
+                  "short_comment": "硬汉吴京搏命出击",
+                  "poster": "http://pic9.iqiyipic.com/image/20180220/93/eb/v_113763212_m_601_m2.jpg",
+                  "language": [
+                      "普通话"
+                  ],
+                  "region": [
+                      "中国大陆"
+                  ],
+                  "category": [
+                      "动作",
+                      "枪战",
+                      "战争"
+                  ],
+                  "link": "http://www.iqiyi.com/lib/m_215702614.html",
+                  "douban_id": 26363254,
+                  "filmtv_update_strategy": "1",
+                  "description": "故事发生在非洲附近的大海上，主人公冷锋遭遇人生滑铁卢，被“开除军籍”，本想漂泊一生的他，正当他打算这么做的时候，一场突如其来的意外打破了他的计划，突然被卷入了一场非洲国家叛乱，本可以安全撤离，却因无法忘记曾经为军人的使命，孤身犯险冲回沦陷区，带领身陷屠杀中的同胞和难民，展开生死逃亡。随着斗争的持续，体内的狼性逐渐复苏，最终孤身闯入战乱区域，为同胞而战斗。",
+                  "alias": "新战狼;新战死沙场"
+              },
+              "latest_update_time": 1509638080,
+              "is_qiyi_produced": false,
+              "bitrate": "1,2,3,4,5,7,8",
+              "is_third_party_vip": true,
+              "is_domestic_only": true,
+              "access_play_control_platform": "7,16,12,13,11,15,2,9,1,19,20,4,17,10,8,14,6,22,18,3,21,5",
+              "downloadable_platforms": "7,16,12,13,11,15,2,9,1,19,20,4,17,10,8,14,6,22,18,3,21,5",
+              "super_album_order": 2,
+              "super_show_cluster": {},
+              "is_member_downloadable_only": false,
+              "paymark": 1,
+              "is_pano": false,
+              "secret_link": "5dwD0rTDiL7F2SrVBTbclb31a5LBEWaY3e8KOieMVj3_pimbAXZ_cVU1ULPpXV-X",
+              "vip_type": [
+                  0
+              ],
+              "pay_mark_url": "http://pic0.iqiyipic.com/common/20171106/ac/1b/vip_100000_v_601.png",
+              "is_vr_standalone": true,
+              "dimension_charge_control": [
+                  {
+                      "site": 1,
+                      "business": 1
+                  },
+                  {
+                      "site": 1,
+                      "business": 2
+                  },
+                  {
+                      "site": 1,
+                      "business": 3
+                  }
+              ]
+          },
+          "sort": 10,
+          "is_from_intent": false
+      }
+  ],
+  "result_num": 12609,
+  "qc": "",
+  "need_qc": true,
+  "isreplaced": false,
+  "event_id": "8f6d9884139c615140b61d4453ca588b",
+  "bkt": "bkt_main",
+  "search_time": 22,
+  "server_time": "2018-09-20 15:38:38",
+  "all_channels": "电影,1;电视剧,2;纪录片,3;动漫,4;音乐,5;综艺,6;娱乐,7;游戏,8;旅游,9;片花,10;公开课,11;教育,12;时尚,13;时尚综艺,14;少儿综艺,15;微电影,16;体育,17;奥运,18;直播,19;广告,20;生活,21;搞笑,22;奇葩,23",
+  "page_num": 1,
+  "page_size": 10,
+  "max_result_number": 800,
+  "real_query": "",
+  "intent_type": 0,
+  "intent_result_num": 0,
+  "has_unnormal_copyright": true,
+  "index_layer": 1
+}

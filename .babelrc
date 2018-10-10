@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "@babel/react",
+    "@babel/env",
+  ],
+  "plugins": [
+    "dynamic-import-webpack",
+    // "@babel/plugin-syntax-dynamic-import",
+    "@babel/plugin-transform-runtime",
+    "@babel/plugin-transform-react-constant-elements",
+    "react-loadable/babel",
+    ["import", { "libraryName": "antd", "libraryDirectory": "lib", "style": "css" }]
+  ]
+}
