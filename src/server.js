@@ -56,8 +56,6 @@ const render = async (request, replay, restfulApi, template) => {
   );
   const stats = require('../dist/react-loadable.json');
   let bundles = getBundles(stats, modules);
-  console.log(bundles);
-  
   template = template.replace('</head>', `
     ${bundles.map(bundle => {
       if (bundle.publicPath.slice(bundle.publicPath.length - 3) === 'css') {

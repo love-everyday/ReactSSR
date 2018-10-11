@@ -11,7 +11,40 @@
   border-radius: 4px;
   box-shadow: 1px 1px 7px 1px #ccccccd6;
 }
+.home-divider {
+  height: 1px;
+  background-color: #e8e8e8;
+  margin: 15px 0;
+}
+.home-item {
+  display: flex;
+}
 .home-avatar {
   width: 100px;
   height: 131px;
+}
+.home-info {
+  flex: 1;
+  text-align: left;
+  margin-left: 15px;
+}
+.home-title {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.65);
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.home-title:hover {
+  color: #1890ff;
+}
+.home-title:active {
+  color: #1890ff;
+}
+.home-des {
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.45);
+  line-height: 22px;
 }
