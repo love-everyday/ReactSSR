@@ -1,13 +1,13 @@
 const path =require('path')
 const webpack = require('webpack')
 const ManifestPlugin = require('webpack-manifest-plugin')
-// const CompressionWebpackPlugin = require('compression-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const HtmlwebpackPlugin = require('html-webpack-plugin')
 const ReactLoadablePlugin = require('react-loadable/webpack').ReactLoadablePlugin;
+const ScriptExtHtmlWebpackPlugin = require('script-ext-html-webpack-plugin');
 
 module.exports = {
-  mode: 'production',
+  mode: 'development',
   entry: [
     'webpack-hot-middleware/client?noInfo=true&reload=true',
     './src/client.jsx',
@@ -17,9 +17,9 @@ module.exports = {
   },
   output: {
     path: path.join(__dirname, 'assets'),
-    filename: "js/[name].[hash:6].js",
+    filename: "js/[name].js",
     publicPath: '/public/',
-    chunkFilename: 'js/[name].bundle.[chunkhash:6].js',
+    chunkFilename: 'js/[name].bundle.js',
   },
   module: {
     rules: [
@@ -54,21 +54,13 @@ module.exports = {
       __CLIENT__: true
     }),
     new MiniCssExtractPlugin({
-      filename: 'css/[name].[chunkhash:6].css',
-      chunkFilename: 'css/[name].[chunkhash:6].css',
+      filename: 'css/[name].css',
+      chunkFilename: 'css/[name].css',
     }),
     new webpack.HotModuleReplacementPlugin(),
-    /*
-    new CompressionWebpackPlugin({
-      filename: '[path].gz[query]',// 目标文件名
-      algorithm: 'gzip',// 使用gzip压缩
-      test: new RegExp(
-          '\\.(js|css)$' // 压缩 js 与 css
-      ),
-      threshold: 10240,// 资源文件大于10240B=10kB时会被压缩
-      minRatio: 0.8 // 最小压缩比达到0.8时才会被压缩
+    new ScriptExtHtmlWebpackPlugin({
+      defaultAttribute: 'defer',
     })
-    //*/
   ],
   optimization: {
     splitChunks: {

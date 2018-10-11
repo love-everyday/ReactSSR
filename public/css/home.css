@@ -24,7 +24,7 @@
   height: 131px;
 }
 .home-info {
-  flex: 1;
+  width: 100%;
   text-align: left;
   margin-left: 15px;
 }

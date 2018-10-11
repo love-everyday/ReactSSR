@@ -26,7 +26,7 @@ class Home extends React.Component {
               <div key={index}>
                 {(index > 0) && <div className="home-divider"></div>}
                 <div className="home-item">
-                  <img src={item.albumDocInfo.albumHImage} className="home-avatar" />
+                  <div className="home-avatar"><img  style={{width: '100%',height: '100%'}} src={item.albumDocInfo.albumHImage} /></div>
                   <div className="home-info">
                     <a className="home-title" href={"/detail/" + item.albumDocInfo.albumId}>{item.albumDocInfo.albumTitle}</a>
                     <div className="home-des">{item.albumDocInfo.description}</div>

@@ -60,7 +60,7 @@ const render = async (request, replay, restfulApi, template) => {
     if (bundle.publicPath.slice(bundle.publicPath.length - 3) === 'css') {
       return `<link href="${bundle.publicPath}" rel="stylesheet" type="text/css">`
     }
-    return `<script type="text/javascript" src="${bundle.publicPath}"></script>`
+    return `<script defer type="text/javascript" src="${bundle.publicPath}"></script>`
   });
   template = template.replace('</head>', `
     ${resources.map(item => {
@@ -68,15 +68,18 @@ const render = async (request, replay, restfulApi, template) => {
         return item
       }
     }).join('\n')}
-    <script id="script-state">window.__STATE__ = ${JSON.stringify(preloadState)}</script>
   </head>`);
-  template = template.replace('<div id="root">', `<div id="root">${frontComponet}`);
+  template = template.replace('<div id="root"></div>', `
+    <div id="root">${frontComponet}</div>
+    <script type="text/javascript" id="script-state">window.__STATE__ = ${JSON.stringify(preloadState)}</script>
+  `);
   template = template.replace('</body>', `
     ${resources.map(item => {
       if (item.indexOf('<script') === 0) {
         return item
       }
-    }).join('\n')}</body>`);
+    }).join('\n')}
+  </body>`);
   replay.res.write(template)
   replay.res.end()
 }
