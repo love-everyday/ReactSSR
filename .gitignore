@@ -6,6 +6,7 @@ yarn-error.log
 node_modules/
 package-lock.json
 yarn.lock
+nohup.out
 coverage/
 .idea/
 .vscode/
