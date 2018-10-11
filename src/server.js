@@ -55,17 +55,28 @@ const render = async (request, replay, restfulApi, template) => {
     </Loadable.Capture>
   );
   const stats = require('../dist/react-loadable.json');
-  let bundles = getBundles(stats, modules);
+  const bundles = getBundles(stats, modules);
+  const resources = bundles.map(bundle => {
+    if (bundle.publicPath.slice(bundle.publicPath.length - 3) === 'css') {
+      return `<link href="${bundle.publicPath}" rel="stylesheet" type="text/css">`
+    }
+    return `<script type="text/javascript" src="${bundle.publicPath}"></script>`
+  });
   template = template.replace('</head>', `
-    ${bundles.map(bundle => {
-      if (bundle.publicPath.slice(bundle.publicPath.length - 3) === 'css') {
-        return `<link href="${bundle.publicPath}" rel="stylesheet">`
+    ${resources.map(item => {
+      if (item.indexOf('<link') === 0) {
+        return item
       }
-      return `<script src="${bundle.publicPath}"></script>`
     }).join('\n')}
     <script id="script-state">window.__STATE__ = ${JSON.stringify(preloadState)}</script>
   </head>`);
   template = template.replace('<div id="root">', `<div id="root">${frontComponet}`);
+  template = template.replace('</body>', `
+    ${resources.map(item => {
+      if (item.indexOf('<script') === 0) {
+        return item
+      }
+    }).join('\n')}</body>`);
   replay.res.write(template)
   replay.res.end()
 }

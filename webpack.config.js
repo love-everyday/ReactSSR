@@ -17,9 +17,9 @@ module.exports = {
   },
   output: {
     path: path.join(__dirname, 'assets'),
-    filename: "js/[name].js",
+    filename: "js/[name].[hash:6].js",
     publicPath: '/public/',
-    chunkFilename: 'js/[name].bundle.js',
+    chunkFilename: 'js/[name].bundle.[chunkhash:6].js',
   },
   module: {
     rules: [
@@ -54,8 +54,8 @@ module.exports = {
       __CLIENT__: true
     }),
     new MiniCssExtractPlugin({
-      filename: 'css/[name].css',
-      chunkFilename: 'css/[name].css',
+      filename: 'css/[name].[chunkhash:6].css',
+      chunkFilename: 'css/[name].[chunkhash:6].css',
     }),
     new webpack.HotModuleReplacementPlugin(),
     /*

@@ -1,5 +1,4 @@
 const path =require('path')
-const webpack = require('webpack')
 const ManifestPlugin = require('webpack-manifest-plugin')
 const CompressionWebpackPlugin = require('compression-webpack-plugin');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
@@ -18,7 +17,7 @@ module.exports = {
     path: path.join(__dirname, 'dist'),
     filename: "js/[name].js",
     publicPath: '/dist/',
-    chunkFilename: 'js/[name].bundle.js',
+    chunkFilename: 'js/[name].bundle.[chunkhash:6].js',
   },
   module: {
     rules: [
@@ -49,8 +48,8 @@ module.exports = {
       filename: './dist/react-loadable.json',
     }),
     new MiniCssExtractPlugin({
-      filename: 'css/[name].css',
-      chunkFilename: 'css/[name].css',
+      filename: 'css/[name].[chunkhash:6].css',
+      chunkFilename: 'css/[name].[chunkhash:6].css',
     }),
     //*
     new CompressionWebpackPlugin({
