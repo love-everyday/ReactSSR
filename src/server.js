@@ -80,6 +80,7 @@ const render = async (request, replay, restfulApi, template) => {
       }
     }).join('\n')}
   </body>`);
+  replay.res.writeHead(200, {'Content-Type': 'text/html'});
   replay.res.write(template)
   replay.res.end()
 }
