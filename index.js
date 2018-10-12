@@ -5,16 +5,12 @@ const path = require('path');
 const {serverRender} = require('./views/server')
 const Loadable = require('react-loadable');
 
-
-//*
 app.register(fastifyStatic, {
   root: path.join(__dirname, 'dist'),
   prefix: '/dist/',
 })
-//*/
+
 app.get('/', function (req, replay) {
-  console.log('listen /');
-  
   serverRender(req, replay, '/')
 })
 

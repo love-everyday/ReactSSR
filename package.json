@@ -10,18 +10,10 @@
     "babel": "rm -r views & babel src -d views --copy-files",
     "start": "node index.js"
   },
-  "nodemonConfig": {
-    "ignore": [
-      "dist/*",
-      "public/*",
-      "views/*"
-    ]
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "antd": "^3.9.3",
     "fastify": "^1.11.2",
     "fastify-babel": "^1.0.0",
     "fastify-static": "^0.14.0",
