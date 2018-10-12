@@ -1,6 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import '../../public/css/detail.css'
+import '../assets/css/detail.css'
 
 class Detail extends React.Component {
   constructor(props) {

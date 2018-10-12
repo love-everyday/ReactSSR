@@ -14,7 +14,6 @@ import Service from './services';
 
 import fs from 'fs';
 import { promisify } from "util";
-import path from 'path';
 
 exports.serverRenderDev = async (request, replay, restfulApi) => {
   const time = new Date().getTime();
@@ -62,6 +61,7 @@ const render = async (request, replay, restfulApi, template) => {
     }
     return `<script defer type="text/javascript" src="${bundle.publicPath}"></script>`
   });
+  
   template = template.replace('</head>', `
     ${resources.map(item => {
       if (item.indexOf('<link') === 0) {

@@ -1,13 +1,13 @@
 {
-  "name": "ReactSSR",
+  "name": "react-ssr",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon dev.js --exec babel-node",
-    "build": "rm -rf dist & npm run babel & webpack --config webpack.prod.config.js",
-    "babel": "babel src -d views",
+    "dev": "babel-node dev.js",
+    "build": "rm -r dist & npm run babel & webpack --config webpack.prod.config.js",
+    "babel": "rm -r views & babel src -d views --copy-files",
     "start": "node index.js"
   },
   "nodemonConfig": {
@@ -55,6 +55,7 @@
     "babel-plugin-import": "^1.9.1",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-plugin-transform-dynamic-import": "^2.1.0",
+    "chokidar": "^2.0.4",
     "compression-webpack-plugin": "^2.0.0",
     "cross-env": "^5.2.0",
     "css-loader": "^1.0.0",
