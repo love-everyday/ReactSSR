@@ -41,6 +41,9 @@ app.get('/', function (req, replay) {
 app.get('/detail/:id', function (req, replay) {
   serverRenderDev(req, replay, '/detail/:id')
 })
+app.get('/test', function (req, replay) {
+  serverRenderDev(req, replay, '/test')
+})
 
 Loadable.preloadAll().then(() => {
   app.listen(3000, function (err, address) {

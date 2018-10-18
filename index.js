@@ -17,6 +17,9 @@ app.get('/', function (req, replay) {
 app.get('/detail/:id', function (req, replay) {
   serverRender(req, replay, '/detail/:id')
 })
+app.get('/test', function (req, replay) {
+  serverRender(req, replay, '/test')
+})
 
 Loadable.preloadAll().then(() => {
   app.listen(3000, '0.0.0.0', function (err, address) {
